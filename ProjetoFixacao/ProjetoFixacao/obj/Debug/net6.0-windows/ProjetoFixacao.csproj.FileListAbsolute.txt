@@ -1,0 +1,17 @@
+C:\Users\pedro.vcmontalvao\source\repos\ProjetoFixacao\ProjetoFixacao\bin\Debug\net6.0-windows\ProjetoFixacao.exe
+C:\Users\pedro.vcmontalvao\source\repos\ProjetoFixacao\ProjetoFixacao\bin\Debug\net6.0-windows\ProjetoFixacao.deps.json
+C:\Users\pedro.vcmontalvao\source\repos\ProjetoFixacao\ProjetoFixacao\bin\Debug\net6.0-windows\ProjetoFixacao.runtimeconfig.json
+C:\Users\pedro.vcmontalvao\source\repos\ProjetoFixacao\ProjetoFixacao\bin\Debug\net6.0-windows\ProjetoFixacao.dll
+C:\Users\pedro.vcmontalvao\source\repos\ProjetoFixacao\ProjetoFixacao\bin\Debug\net6.0-windows\ProjetoFixacao.pdb
+C:\Users\pedro.vcmontalvao\source\repos\ProjetoFixacao\ProjetoFixacao\obj\Debug\net6.0-windows\ProjetoFixacao.csproj.AssemblyReference.cache
+C:\Users\pedro.vcmontalvao\source\repos\ProjetoFixacao\ProjetoFixacao\obj\Debug\net6.0-windows\ProjetoFixacao.FrmParImpar.resources
+C:\Users\pedro.vcmontalvao\source\repos\ProjetoFixacao\ProjetoFixacao\obj\Debug\net6.0-windows\ProjetoFixacao.csproj.GenerateResource.cache
+C:\Users\pedro.vcmontalvao\source\repos\ProjetoFixacao\ProjetoFixacao\obj\Debug\net6.0-windows\ProjetoFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.vcmontalvao\source\repos\ProjetoFixacao\ProjetoFixacao\obj\Debug\net6.0-windows\ProjetoFixacao.AssemblyInfoInputs.cache
+C:\Users\pedro.vcmontalvao\source\repos\ProjetoFixacao\ProjetoFixacao\obj\Debug\net6.0-windows\ProjetoFixacao.AssemblyInfo.cs
+C:\Users\pedro.vcmontalvao\source\repos\ProjetoFixacao\ProjetoFixacao\obj\Debug\net6.0-windows\ProjetoFixacao.csproj.CoreCompileInputs.cache
+C:\Users\pedro.vcmontalvao\source\repos\ProjetoFixacao\ProjetoFixacao\obj\Debug\net6.0-windows\ProjetoFixacao.dll
+C:\Users\pedro.vcmontalvao\source\repos\ProjetoFixacao\ProjetoFixacao\obj\Debug\net6.0-windows\refint\ProjetoFixacao.dll
+C:\Users\pedro.vcmontalvao\source\repos\ProjetoFixacao\ProjetoFixacao\obj\Debug\net6.0-windows\ProjetoFixacao.pdb
+C:\Users\pedro.vcmontalvao\source\repos\ProjetoFixacao\ProjetoFixacao\obj\Debug\net6.0-windows\ProjetoFixacao.genruntimeconfig.cache
+C:\Users\pedro.vcmontalvao\source\repos\ProjetoFixacao\ProjetoFixacao\obj\Debug\net6.0-windows\ref\ProjetoFixacao.dll
